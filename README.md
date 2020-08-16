@@ -1,2 +1,2 @@
-# mdkashifali.github.com
+# mdkashifali.github.io
 the very first website of mine
